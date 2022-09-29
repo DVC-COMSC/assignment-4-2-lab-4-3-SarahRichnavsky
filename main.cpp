@@ -26,7 +26,7 @@
 using namespace std;
 int main(){
 
-const double RATE1 = 2.10;
+const double RATE2 = 2.10;
 const double RATE6 = 3.20;
 const double RATE10 = 4.70;
 const double RATE20 = 5.80;
