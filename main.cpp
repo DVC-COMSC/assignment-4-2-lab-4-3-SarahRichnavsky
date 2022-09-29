@@ -40,8 +40,8 @@ double weight, distance, dRate, price;
   exit (0);
 
   }
-if (weight < 20)
-  dRate = RATE20;
+if (weight < 2)
+  dRate = RATE2;
 else if (weight<6)
   dRate = RATE6;
 else if (weight<10)
